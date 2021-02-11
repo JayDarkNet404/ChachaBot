@@ -52,7 +52,7 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > git clone https://github.com/Ramlan666/babybot
-> cd babybot
+> cd ChachaBot
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
