@@ -10,7 +10,7 @@
 <a href="#"><img title="JayDarkNet" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/JayDarkNet404/"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/JayDarkNet404/"><img title="Author" src="https://img.shields.io/badge/AUTHOR-JayDarkNet-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/JayDarkNet404/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan666?color=blue&style=flat-square"></a>
